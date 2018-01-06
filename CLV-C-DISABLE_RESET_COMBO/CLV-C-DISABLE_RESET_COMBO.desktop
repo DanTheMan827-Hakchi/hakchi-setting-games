@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-C-DISABLE_RESET_COMBO/Disable_Button_Combination_to_Reset.sh
+Path=/var/lib/clover/profiles/0/CLV-C-DISABLE_RESET_COMBO
+Name=Disable Button Combination to Reset
+Icon=/var/games/CLV-C-DISABLE_RESET_COMBO/CLV-C-DISABLE_RESET_COMBO.png
+
+[X-CLOVER Game]
+Code=CLV-C-DISABLE_RESET_COMBO
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=disable button combination to reset
+SortRawPublisher=UNKNOWN
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

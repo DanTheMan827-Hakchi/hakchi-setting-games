@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-C-SET_RESET_BUTTON_COMBO/Select_Reset_Button_Combination.sh
+Path=/var/lib/clover/profiles/0/CLV-C-SET_RESET_BUTTON_COMBO
+Name=Select Reset Button Combination
+Icon=/var/games/CLV-C-SET_RESET_BUTTON_COMBO/CLV-C-SET_RESET_BUTTON_COMBO.png
+
+[X-CLOVER Game]
+Code=CLV-C-SET_RESET_BUTTON_COMBO
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=select reset button combination
+SortRawPublisher=UNKNOWN
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

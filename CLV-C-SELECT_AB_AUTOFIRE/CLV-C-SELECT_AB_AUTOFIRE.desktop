@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-C-SELECT_AB_AUTOFIRE/Use_Select_AB_to_enable_autofire_on_AB.sh
+Path=/var/lib/clover/profiles/0/CLV-C-SELECT_AB_AUTOFIRE
+Name=Use Select+A/B to Enable Autofire on A/B
+Icon=/var/games/CLV-C-SELECT_AB_AUTOFIRE/CLV-C-SELECT_AB_AUTOFIRE.png
+
+[X-CLOVER Game]
+Code=CLV-C-SELECT_AB_AUTOFIRE
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=use select+a/b to enable autofire on a/b
+SortRawPublisher=UNKNOWN
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin
