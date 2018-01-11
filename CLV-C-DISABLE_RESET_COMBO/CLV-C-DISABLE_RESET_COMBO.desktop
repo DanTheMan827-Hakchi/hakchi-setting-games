@@ -4,6 +4,7 @@ Exec=/bin/sh /var/games/CLV-C-DISABLE_RESET_COMBO/Disable_Button_Combination_to_
 Path=/var/lib/clover/profiles/0/CLV-C-DISABLE_RESET_COMBO
 Name=Disable Button Combination to Reset
 Icon=/var/games/CLV-C-DISABLE_RESET_COMBO/CLV-C-DISABLE_RESET_COMBO.png
+Random=false
 
 [X-CLOVER Game]
 Code=CLV-C-DISABLE_RESET_COMBO
