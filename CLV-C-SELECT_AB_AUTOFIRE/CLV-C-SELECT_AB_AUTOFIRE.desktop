@@ -4,6 +4,7 @@ Exec=/bin/sh /var/games/CLV-C-SELECT_AB_AUTOFIRE/Use_Select_AB_to_enable_autofir
 Path=/var/lib/clover/profiles/0/CLV-C-SELECT_AB_AUTOFIRE
 Name=Use Select+A/B to Enable Autofire on A/B
 Icon=/var/games/CLV-C-SELECT_AB_AUTOFIRE/CLV-C-SELECT_AB_AUTOFIRE.png
+Random=false
 
 [X-CLOVER Game]
 Code=CLV-C-SELECT_AB_AUTOFIRE
